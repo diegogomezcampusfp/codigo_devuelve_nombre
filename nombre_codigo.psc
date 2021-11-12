@@ -8,6 +8,7 @@ Algoritmo practicaFunciones
 FinAlgoritmo
 
 Funcion alumno<-persona(n)
+Definir alumno Como texto;
 	Segun n hacer
 		17:alumno<-"El código 17 pertenece a Juan";
 		25:alumno<-"El código 25 pertenece a María";
