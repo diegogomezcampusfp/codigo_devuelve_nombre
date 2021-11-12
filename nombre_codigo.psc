@@ -1,10 +1,10 @@
 Algoritmo practicaFunciones
-	definir n como entero;
-	escribir "dame un número";
-	leer n;
-	definir resultado como cadena;
+	Definir n como entero;
+	Escribir "dame un número";
+	Leer n;
+	Definir resultado como cadena;
 	resultado<-persona(n);
-	escribir resultado;
+	Escribir resultado;
 FinAlgoritmo
 
 Funcion alumno<-persona(n)
