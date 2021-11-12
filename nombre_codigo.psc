@@ -1,21 +1,21 @@
 Algoritmo practicaFunciones
-	
-	escribir "dame un n鷐ero"
-	leer n
-	definir resultado como cadena
-	resultado<-persona(n)
-	escribir resultado
+	definir n como entero;
+	escribir "dame un n煤mero";
+	leer n;
+	definir resultado como cadena;
+	resultado<-persona(n);
+	escribir resultado;
 FinAlgoritmo
 
 Funcion alumno<-persona(n)
 	Segun n hacer
-		17:alumno="El c骴igo 17 pertenece a Juan"
-		25:alumno="El c骴igo 25 pertenece a Mar韆"
-		95:alumno="El c骴igo 95 pertenece a Pedro"
-		35:alumno="El c骴igo 35 pertenece a Laura"
+		17:alumno<-"El c贸digo 17 pertenece a Juan";
+		25:alumno<-"El c贸digo 25 pertenece a Mar铆a";
+		95:alumno<-"El c贸digo 95 pertenece a Pedro";
+		35:alumno<-"El c贸digo 35 pertenece a Laura";
 			
 		De Otro Modo:
-			Escribir "Codigo no descubierto"
+			Escribir "Codigo no descubierto";
 			
 	FinSegun
 	
